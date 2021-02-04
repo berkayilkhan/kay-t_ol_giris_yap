@@ -1,1 +1,1 @@
-# kay-t_ol_giris_yap
+# kayit_ol_giris_yap
